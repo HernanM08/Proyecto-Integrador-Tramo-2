@@ -1,5 +1,5 @@
 body {
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -14,5 +14,5 @@ a.btn.btn-primary {
 
 @media (min-width: 768px) {
     body {
-        width: 40%;}
+        width: 60%;}
     }

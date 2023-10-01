@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Roboto&display=swap');
 
 body {
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -13,6 +13,7 @@ h1 {
 
 .introduccion {
     font-family: Dancing Script, sans-serif;
+    font-weight: 500;
     font-size: 1.3rem;
     text-align: center;
 }
@@ -34,3 +35,7 @@ h1 {
     opacity: 0.9;
 }
 
+@media (min-width: 768px) {
+    body {
+        width: 50%;}
+    }
