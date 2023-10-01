@@ -1,0 +1,188 @@
+{
+    "cantidad": 20,
+    "inicio": 0,
+    "parametros": {},
+    "productos": [
+        {
+            "id": "Producto 01",
+            "titulo": "El músico",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x60",
+            "imagen": "../img/Producto 01 - Oleo sobre tela 40x60 - El músico.jpg",
+            "descripcion": "Inspirada en la música y sobre una fotografía tomada por mí sobre el puente Santo Angelo, Roma en en año 2012.",
+            "precio" : 38000
+        },
+        {
+            "id": "Producto 02",
+            "titulo": "Bodegón Rústico",
+            "tecnica": "Acrílico sobre tela",
+            "medidas": "30x40",
+            "imagen": "../img/Producto 02 - Acrílico sobre tela 30x40 -  Bodegón rústico.JPG",
+            "descripcion": "Lo considero un intento de impresionista.",
+            "precio" : 28000
+        },
+        {
+            "id": "Producto 03",
+            "titulo": "Taormina",
+            "tecnica": "Acrílico sobre tela con espátula",
+            "medidas": "50x60",
+            "imagen": "../img/Producto 03 - Acrílico sobre tela con espátula 50x60 - Taormina.jpg",
+            "descripcion": "Inspirado en el maravilloso paisaje de la ciudad de Taormina, Isla de Sicilia.",
+            "precio" : 40000
+        },
+        {
+            "id": "Producto 04",
+            "titulo": "Pasteles",
+            "tecnica": "Óleo sobre madera",
+            "medidas": "40x60",
+            "imagen": "../img/Producto 04 - Oelo sobre madera 40x60 - Pasteles.JPG",
+            "descripcion": "Personajes imaginarios sobre un paisaje claro combinado con mi paleta preferida.",
+            "precio" : 45000
+        },
+        {
+            "id": "Producto 05",
+            "titulo": "Subterráneo",
+            "tecnica": "Óleo con espátula sobre madera",
+            "medidas": "30x40",
+            "imagen": "../img/Producto 05 - Óleo con espátula sobre madera 30x40 -  Subterráneo.jpg",
+            "descripcion": "Me entusiasmó el marrón... y salió un abstracto.",
+            "precio" : 35000
+        },
+        {
+            "id": "Producto 06",
+            "titulo": "Carrozas de Brujas",
+            "tecnica": "Óleo sobre madera",
+            "medidas": "40x60",
+            "imagen": "../img/Producto 06 - Óleo sobre madera 40x60 - Carroza en Brujas.jpg",
+            "descripcion": "Inspirado en una foto tomada por mí, con el fin de convertirla en un cuadro por su originalidad.",
+            "precio" : 42000
+        },
+        {
+            "id": "Producto 07",
+            "titulo": "Belleza",
+            "tecnica": "Óleo sobre madera entelada",
+            "medidas": "30x40",
+            "imagen": "../img/Producto 07 - Óleo sobre madera entelada 30x40 - Belleza.JPG",
+            "descripcion": "Modelo de un seminario intensivo de rostro.",
+            "precio" : 32000
+        },
+        {
+            "id": "Producto 08",
+            "titulo": "Capri",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "30x40",
+            "imagen": "../img/Producto 08 - Óleo sobre tela 30x40 - Capri.JPG",
+            "descripcion": "Inspirada en el maravilloso paisaje de Napoles.",
+            "precio" : 30000
+        },
+        {
+            "id": "Producto 09",
+            "titulo": "Brujas I",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "30x40",
+            "imagen": "../img/Producto 09 - Óleo sobre tela 30x40 - Brujas I.jpg",
+            "descripcion": "Me enamoró la paz del lugar...",
+            "precio" : 32000
+        },
+        {
+            "id": "Producto 10",
+            "titulo": "Jardines",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x60",
+            "imagen": "../img/Producto 10 - Óleo sobre tela 40x60 - Jardines.jpg",
+            "descripcion": "Inspirado en la maravillosa ciudad de París.",
+            "precio" : 38000
+        },
+        {
+            "id": "Producto 11",
+            "titulo": "Brujas II",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x50",
+            "imagen": "../img/Producto 11 - Óleo sobre tela 40x50 - Brujas II.jpg",
+            "descripcion": "Conmovedor contraste de luces y sombras.",
+            "precio" : 45000
+        },
+        {
+            "id": "Producto 12",
+            "titulo": "Sofi",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x60",
+            "imagen": "../img/Producto 12 - Óleo sobre tela 40x60 - Sofi.jpg",
+            "descripcion": "Me deslumbró la alegría que emana la protagonista.",
+            "precio" : 40000
+        },
+        {
+            "id": "Producto 13",
+            "titulo": "Pueblo Blanco",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x50",
+            "imagen": "../img/Producto 13 - Óleo sobre tela 40x50 - Pueblo Blanco.JPG",
+            "descripcion": "Como la canción de Serrat, fue el Primer Pueblo Blanco que conocí.",
+            "precio" : 40000
+        },
+        {
+            "id": "Producto 14",
+            "titulo": "Brujas III",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x60",
+            "imagen": "../img/Producto 14 - Óleo sobre tela 40x60 - Brujas III.jpg",
+            "descripcion": "Me gustó su calidez y los reflejos del agua.",
+            "precio" : 42000
+        },
+        {
+            "id": "Producto 15",
+            "titulo": "Cefalú",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x60",
+            "imagen": "../img/Producto 15 - Óleo sobre tela 40x60 - Cefalú.jpg",
+            "descripcion": "Me impactaron los reflejos del agua.",
+            "precio" : 42000
+        },
+        {
+            "id": "Producto 16",
+            "titulo": "Lucy",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x40",
+            "imagen": "../img/Producto 16 - Óleo sobre tela 40x40 - Lucy.jpg",
+            "descripcion": "La emoción de una amiga con el pueblo de sus antepasados.",
+            "precio" : 32000
+        },
+        {
+            "id": "Producto 17",
+            "titulo": "Venecia",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x60",
+            "imagen": "../img/Producto 17 - Óleo sobre tela 40x60 - Venecia.jpg",
+            "descripcion": "Mi lugar en el mundo, desde el primer día.",
+            "precio" : 36000
+        },
+        {
+            "id": "Producto 18",
+            "titulo": "Espera",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "40x70",
+            "imagen": "../img/Producto 18 - Óleo sobre tela 50x70 - Espera.jpg",
+            "descripcion": "Inspirada en la espera de la llegada de mi nieto.",
+            "precio" : 48000
+        },
+        {
+            "id": "Producto 19",
+            "titulo": "Molinera",
+            "tecnica": "Óleo sobre tela",
+            "medidas": "60x80",
+            "imagen": "../img/Producto 19 - Óleo sobre tela 60x80 - Molinera.jpg",
+            "descripcion": "Boceto iniciado por una amiga, que nunca pudo terminarlo, le prometí que lo haría.",
+            "precio" : 48000
+        },
+        {
+            "id": "Producto 20",
+            "titulo": "Caballo",
+            "tecnica": "Pastel tiza",
+            "medidas": "30x40",
+            "imagen": "../img/Producto 20 - Pastel tiza 30x40 - Caballo.jpg",
+            "descripcion": "Modelo de seminario.",
+            "precio" : 32000
+        }
+    ],
+    "total": 20
+}

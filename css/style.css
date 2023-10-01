@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Roboto&display=swap');
+
+body {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 { 
+    font-family: Dancing Script, sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+
+.introduccion {
+    font-family: Dancing Script, sans-serif;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.contenedor {
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.card-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-title {
+    margin: 0;
+    opacity: 0.9;
+}
+
